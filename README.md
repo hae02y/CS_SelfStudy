@@ -1,3 +1,6 @@
-**Self Study File**
+## **Self Study File**
 
-`CodeStates` self study
+```java
+System.out.println("hello world");
+```
+`CodeStates`self study
